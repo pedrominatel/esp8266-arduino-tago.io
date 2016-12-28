@@ -1,7 +1,4 @@
 /* Pedro Minatel - Sistemas Embarcados
-*
-* Este programa envia os dados coletados do DHT11 para a plataforma de IoT
-* thingspeak.com
 * Data: 16 de Setembro de 2015
 * Author: Pedro Minatel
 * Website: http://pedrominatel.com.br
